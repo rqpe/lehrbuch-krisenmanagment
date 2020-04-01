@@ -363,7 +363,7 @@ h4, h4 strong,
 h5,
 h6 {
   font-family: -apple-system,BlinkMacSystemFont,"noto sans medium",helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
-  margin-top: 1.5em;
+  margin-top: 1.2em;
   color: rgb(15,100,167);
   font-weight: normal;
 }
@@ -393,8 +393,8 @@ h2 {
   font-family: "noto sans medium", helvetica neue,helvetica,roboto,segoe ui,arial,sans-serif;
   text-transform: none;
   font-weight: normal;
-  /*margin: 1.5em 0 1.2em 0;*/
-  margin-top: 20pt;
+  /*margin: 1.5em 0 1.2em 0;
+  margin-top: 20pt;*/
   margin-bottom: 9pt;
   page-break-inside: avoid;
   page-break-after: avoid;
