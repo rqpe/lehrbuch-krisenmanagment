@@ -880,6 +880,9 @@ h2 + p, h3 + p, h4 + p {
 h2 + h3 {
   margin-top: 10pt;
 }
+h1 + h2 {
+  margin-top: 0pt;
+}
 
 section[data-type="chapter"] {
  /* break-before: page; */
