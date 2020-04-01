@@ -874,14 +874,17 @@ section[data-type="toc"] a:after {
   margin-left: 0em;
 }
 
-h2 + p, h3 + p, h4 + p {
+h2 + p {
   margin-top: -5pt;
+}
+h3 + p, h4 + p {
+ margin-top: -3pt;
 }
 h2 + h3 {
   margin-top: 10pt;
 }
 h1 + h2 {
-  margin-top: 0pt;
+  margin-top: -10pt;
 }
 
 section[data-type="chapter"] {
