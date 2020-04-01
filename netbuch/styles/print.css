@@ -883,8 +883,8 @@ h3 + p, h4 + p {
 h2 + h3 {
   margin-top: 10pt;
 }
-h1 + h2 {
-  margin-top: -10pt;
+.article-body + h2 {
+  margin-top: -20pt;
 }
 
 section[data-type="chapter"] {
